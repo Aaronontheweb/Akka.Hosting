@@ -1,4 +1,7 @@
 <a id="akkahosting"></a>
+
+# This project is now part of the core Akka.NET repository.
+
 # Akka.Hosting
 
 HOCON-less configuration, application lifecycle management, `ActorSystem` startup, and actor instantiation for [Akka.NET](https://getakka.net/).
